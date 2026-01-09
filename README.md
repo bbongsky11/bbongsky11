@@ -9,26 +9,37 @@
 <img src="https://img.shields.io/badge/spring Framework-6DB33F?style=flat&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/spring Boot-6DB33F?style=flat&logo=springBoot&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <!-- <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"> -->
-<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+
+    
 <br>
 <h3>🖥️Front-End</h3>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white">
 <br>
 <h3>🌐Dev</h3>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+
 <br>
-<h3>💡Git</h3>
+<h3>💡Tool</h3>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/SVN-F05032?style=flat&logo=SVN&logoColor=white">
 <br>
 <h3>📒PortPolio</h3>
   <a href="https://www.notion.so/JAVA-2e3a8f760db4804c820aced701726434?source=copy_link?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a>
