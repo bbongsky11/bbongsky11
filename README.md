@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=96d67b&height=300&section=header&text=HaNeul%20Kim&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=8fc3eb&height=300&section=header&text=HaNeul%20Bong&fontSize=90)
 
 <div align="center">
 <h2>🛠 Tech Stack 🛠</h2>
