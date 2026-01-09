@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=8fc3eb&height=300&section=header&text=HaNeul%20Bong&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=add1f1&height=300&section=header&text=HaNeul%20Bong&fontSize=90)
 
 <div align="center">
 <h2>🛠 Tech Stack 🛠</h2>
@@ -35,7 +35,7 @@
 <!--   <a href="https://cotton-blarney-d0f.notion.site/PBT-JAVA-UI-Python-SW-23-03-02-23-09-15-0e468a83a0774e7eacecd573b5061952?pvs=4"><img src="https://img.shields.io/badge/Blog-007396?style=flat&logo=Blog&logoColor=white"></a> -->
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=E6F1D3&height=200&section=footer&text=&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=add1f1&height=200&section=footer&text=&fontSize=90)
 
 
 <!--
